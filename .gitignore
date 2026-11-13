@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.npm-cache/
+.env
+/atividade1.zip
+/Atividade 1*.pdf
+
